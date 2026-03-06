@@ -90,7 +90,7 @@ export default function AlfaStudioWebsite() {
             </div>
 
             <img
-              src="/mnt/data/Alfa Studio logo_F14.jpg"
+              src="/alfa-logo.jpg"
               alt="Alfa Studio"
               className="w-full max-w-4xl object-contain drop-shadow-[0_18px_50px_rgba(0,0,0,0.35)]"
             />
